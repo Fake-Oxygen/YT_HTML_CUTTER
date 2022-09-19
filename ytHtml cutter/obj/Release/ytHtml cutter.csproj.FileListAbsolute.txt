@@ -1,0 +1,6 @@
+I:\Projects\Finished\ytHtml cutter\ytHtml cutter\bin\Release\ytHtml cutter.exe.config
+I:\Projects\Finished\ytHtml cutter\ytHtml cutter\bin\Release\ytHtml cutter.exe
+I:\Projects\Finished\ytHtml cutter\ytHtml cutter\bin\Release\ytHtml cutter.pdb
+I:\Projects\Finished\ytHtml cutter\ytHtml cutter\obj\Release\ytHtml cutter.csprojAssemblyReference.cache
+I:\Projects\Finished\ytHtml cutter\ytHtml cutter\obj\Release\ytHtml cutter.exe
+I:\Projects\Finished\ytHtml cutter\ytHtml cutter\obj\Release\ytHtml cutter.pdb
